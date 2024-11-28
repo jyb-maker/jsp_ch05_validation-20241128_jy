@@ -11,10 +11,10 @@
 	<h2>회원 가입</h2>
 	<hr>
 	<form action="joinOk.jsp" name="joinForm" onsubmit="return joinCheck()">
-		아이디 : <input type="text" name="memeberId"><br><br>
-		비밀번호 : <input type="password" name="memeberPw"><br><br>
-		이름 : <input type="text" name="memeberName"><br><br>
-		전화번호 : <input type="text" name="memeberPhone"> ※ 숫자만 입력하세요. <br><br>
+		아이디 : <input type="text" name="memberId"><br><br>
+		비밀번호 : <input type="password" name="memberPw"><br><br>
+		이름 : <input type="text" name="memberName"><br><br>
+		전화번호 : <input type="text" name="memberPhone"> ※ 숫자만 입력하세요. <br><br>
 		<input type="submit" value="회원가입">	
 	</form>	
 </body>
